@@ -1,0 +1,5 @@
+# Python bytecode
+*.py[cod]
+
+# Python packaging
+*.egg-info
